@@ -3,9 +3,15 @@
 <head>
   <meta charset="utf-8">
   <title>CustomerSupport</title>
-  <base href="/Customer_Support_T11/">
+  <base href="https://DebasisDhal.github.io/Customer_Support_T11/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <script>
+    var path = window.location.pathname;
+    if (!path.endsWith('/')) {
+      window.location.href = path + '/';
+    }
+  </script>
 <link rel="stylesheet" href="styles-5INURTSO.css"></head>
 <body>
   <app-root></app-root>
