@@ -1,6 +1,7 @@
 # CustomerSupport
 
 ## Most of focusing in Desgine part and simple if elseif useing for hideing and showing html box
+![image](https://github.com/user-attachments/assets/cf988081-5f07-4d4b-8197-2dabcfff6baf)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
 
